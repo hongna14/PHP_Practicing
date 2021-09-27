@@ -1,0 +1,1057 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:700px;
+  min-width:200px;
+  max-width:1290px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.HOW-TO-INSTALL-PHP-A{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:376px;
+  width:701px;
+  min-width:701px;
+  margin-top:37px;
+  margin-bottom:602px;
+  min-height:61px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Erica One;
+  font-weight:400;
+  font-size:40px;
+  line-height:54px;
+}
+.HOW-TO-INSTALL-PHP-A-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Ellipse-3{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:627px;
+  width:335px;
+  min-width:335px;
+  height:160px;
+  margin-top:-348px;
+  margin-bottom:189px;
+  min-height:160px;
+  content:url(assets/images/Ellipse_3.png);
+}
+.Ellipse-3-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:327px;
+  width:333.68px;
+  min-width:333.68px;
+  height:159px;
+  margin-top:-507px;
+  margin-bottom:188.27999999999997px;
+  min-height:159px;
+  content:url(assets/images/Ellipse_2.png);
+}
+.Ellipse-2-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Ellipse-4{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:928px;
+  width:333.68px;
+  min-width:333.68px;
+  height:158px;
+  margin-top:-506px;
+  margin-bottom:187.27999999999997px;
+  min-height:158px;
+  content:url(assets/images/Ellipse_4.png);
+}
+.Ellipse-4-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Green-circle{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:79px;
+  width:237px;
+  min-width:237px;
+  height:241px;
+  margin-top:-479px;
+  margin-bottom:238px;
+  min-height:241px;
+}
+.Green-circle-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.Q1{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:30.80168776371308%;
+  width:20.675105485232066%;
+  height:25.311203319502074%;
+  margin-top:30.80168776371308%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(186, 200, 46, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:48px;
+  line-height:61px;
+  visibility:hidden;
+}
+.Q1-outer{
+  pointer-events:none;
+  z-index:29;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-17{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:11.39240506329114%;
+  width:77.37552742616033%;
+  height:75.04149377593362%;
+  margin-top:12.658227848101266%;
+  content:url(assets/images/Ellipse_17.png);
+}
+.Ellipse-17-outer{
+  pointer-events:none;
+  z-index:28;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-16{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  content:url(assets/images/Ellipse_16.png);
+}
+.Ellipse-16-outer{
+  pointer-events:none;
+  z-index:27;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Organge-circle{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:676px;
+  width:237px;
+  min-width:237px;
+  height:241px;
+  margin-top:-478px;
+  margin-bottom:237px;
+  min-height:241px;
+}
+.Organge-circle-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Q1-2{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:30.80168776371308%;
+  width:23.628691983122362%;
+  height:25.311203319502074%;
+  margin-top:30.80168776371308%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(244, 161, 32, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:48px;
+  line-height:61px;
+  visibility:hidden;
+}
+.Q1-2-outer{
+  pointer-events:none;
+  z-index:15;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-17-2{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:11.39240506329114%;
+  width:77.37552742616033%;
+  height:75.04149377593362%;
+  margin-top:12.658227848101266%;
+  content:url(assets/images/Ellipse_17_2.png);
+}
+.Ellipse-17-2-outer{
+  pointer-events:none;
+  z-index:14;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-16-3{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  content:url(assets/images/Ellipse_16_3.png);
+}
+.Ellipse-16-3-outer{
+  pointer-events:none;
+  z-index:13;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Blue-circle{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:377px;
+  width:233px;
+  min-width:233px;
+  height:233px;
+  margin-top:-465px;
+  margin-bottom:232px;
+  min-height:233px;
+}
+.Blue-circle-outer{
+  pointer-events:none;
+  z-index:8;
+  position:relative;
+  display:flex;
+}
+.Q1-3{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:30.901287553648068%;
+  width:23.605150214592275%;
+  height:26.180257510729614%;
+  margin-top:30.472103004291846%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(11, 108, 129, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:48px;
+  line-height:61px;
+  visibility:hidden;
+}
+.Q1-3-outer{
+  pointer-events:none;
+  z-index:11;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-17-3{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:11.587982832618025%;
+  width:77.37768240343347%;
+  height:75.04291845493562%;
+  margin-top:12.44635193133047%;
+  content:url(assets/images/Ellipse_17_3.png);
+}
+.Ellipse-17-3-outer{
+  pointer-events:none;
+  z-index:10;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-16-4{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  content:url(assets/images/Ellipse_16_4.png);
+}
+.Ellipse-16-4-outer{
+  pointer-events:none;
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Red-circle{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:974px;
+  width:243px;
+  min-width:243px;
+  height:243px;
+  margin-top:-464px;
+  margin-bottom:221px;
+  min-height:243px;
+}
+.Red-circle-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Q1-1{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:30.864197530864196%;
+  width:23.045267489711936%;
+  height:25.102880658436213%;
+  margin-top:30.45267489711934%;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(200, 83, 46, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:48px;
+  line-height:61px;
+  visibility:hidden;
+}
+.Q1-1-outer{
+  pointer-events:none;
+  z-index:19;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-17-1{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:11.522633744855966%;
+  width:77.37860082304526%;
+  height:75.04115226337449%;
+  margin-top:12.345679012345677%;
+  content:url(assets/images/Ellipse_17_1.png);
+}
+.Ellipse-17-1-outer{
+  pointer-events:none;
+  z-index:18;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Ellipse-16-2{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:0%;
+  width:100%;
+  height:100%;
+  margin-top:0%;
+  content:url(assets/images/Ellipse_16_2.png);
+}
+.Ellipse-16-2-outer{
+  pointer-events:none;
+  z-index:17;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.q220069774fedb9b3e0f{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:700px;
+  width:190px;
+  min-width:190px;
+  height:199px;
+  margin-top:-457px;
+  margin-bottom:258px;
+  min-height:199px;
+  content:url(assets/images/_220069774fedb9b3e0fc_1.png);
+}
+.q220069774fedb9b3e0f-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.z2791781703525-61828{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:102px;
+  width:191px;
+  min-width:191px;
+  height:199px;
+  margin-top:-457px;
+  margin-bottom:258px;
+  min-height:199px;
+  content:url(assets/images/z2791781703525_61828bc195ca7655f8960de363239f66_2.png);
+}
+.z2791781703525-61828-outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.image-1{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:399px;
+  width:190px;
+  min-width:190px;
+  height:199px;
+  margin-top:-448px;
+  margin-bottom:249px;
+  min-height:199px;
+  content:url(assets/images/image_1.png);
+}
+.image-1-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Group-1{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:1006px;
+  width:180.92px;
+  min-width:180.92px;
+  height:182px;
+  margin-top:-439px;
+  margin-bottom:257px;
+  min-height:182px;
+}
+.Group-1-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Union-1{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:-23px;
+  width:225.03px;
+  min-width:225.03px;
+  height:236px;
+  margin-top:-23px;
+  margin-bottom:-31px;
+  min-height:236px;
+  content:url(assets/images/Union_1.png);
+}
+.Union-1-outer{
+  pointer-events:none;
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.Union{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:-11px;
+  width:201.03px;
+  min-width:201.03px;
+  height:212px;
+  margin-top:-197px;
+  margin-bottom:-15px;
+  min-height:212px;
+  content:url(assets/images/Union.png);
+}
+.Union-outer{
+  pointer-events:none;
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.Ellipse-327{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:0px;
+  width:45.1px;
+  min-width:45.1px;
+  height:54.42px;
+  margin-top:-177px;
+  margin-bottom:122.57999999999998px;
+  min-height:54.42px;
+  content:url(assets/images/Ellipse_327.png);
+}
+.Ellipse-327-outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.Ellipse-326{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:136px;
+  width:45.1px;
+  min-width:45.1px;
+  height:54.42px;
+  margin-top:-177px;
+  margin-bottom:122.57999999999998px;
+  min-height:54.42px;
+  content:url(assets/images/Ellipse_326.png);
+}
+.Ellipse-326-outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.Ellipse-325{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:136px;
+  width:45.1px;
+  min-width:45.1px;
+  height:54.42px;
+  margin-top:-177px;
+  margin-bottom:122.57999999999998px;
+  min-height:54.42px;
+  content:url(assets/images/Ellipse_325.png);
+}
+.Ellipse-325-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Ellipse-331{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:112px;
+  width:18.08px;
+  min-width:18.08px;
+  height:15.35px;
+  margin-top:-126px;
+  margin-bottom:110.64999999999998px;
+  min-height:15.35px;
+  content:url(assets/images/Ellipse_331.png);
+}
+.Ellipse-331-outer{
+  pointer-events:none;
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.Ellipse-330{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:46px;
+  width:18.08px;
+  min-width:18.08px;
+  height:15.35px;
+  margin-top:-126px;
+  margin-bottom:110.64999999999998px;
+  min-height:15.35px;
+  content:url(assets/images/Ellipse_330.png);
+}
+.Ellipse-330-outer{
+  pointer-events:none;
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.Ellipse-332{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:108px;
+  width:20.75px;
+  min-width:20.75px;
+  height:22.88px;
+  margin-top:-105px;
+  margin-bottom:82.12px;
+  min-height:22.88px;
+  content:url(assets/images/Ellipse_332.png);
+}
+.Ellipse-332-outer{
+  pointer-events:none;
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.Ellipse-328{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:48px;
+  width:21.47px;
+  min-width:21.47px;
+  height:23.68px;
+  margin-top:-105px;
+  margin-bottom:81.32px;
+  min-height:23.68px;
+  content:url(assets/images/Ellipse_328.png);
+}
+.Ellipse-328-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Ellipse-334{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:116px;
+  width:6.08px;
+  min-width:6.08px;
+  height:6.82px;
+  margin-top:-99px;
+  margin-bottom:92.18px;
+  min-height:6.82px;
+  content:url(assets/images/Ellipse_334.png);
+}
+.Ellipse-334-outer{
+  pointer-events:none;
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.Ellipse-329{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:56px;
+  width:6.08px;
+  min-width:6.08px;
+  height:6.82px;
+  margin-top:-99px;
+  margin-bottom:92.18px;
+  min-height:6.82px;
+  content:url(assets/images/Ellipse_329.png);
+}
+.Ellipse-329-outer{
+  pointer-events:none;
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.Ellipse-336{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:23px;
+  width:12.88px;
+  min-width:12.88px;
+  height:14.45px;
+  margin-top:-85px;
+  margin-bottom:70.55000000000001px;
+  min-height:14.45px;
+  content:url(assets/images/Ellipse_336.png);
+}
+.Ellipse-336-outer{
+  pointer-events:none;
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Ellipse-335{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:141px;
+  width:12.88px;
+  min-width:12.88px;
+  height:14.45px;
+  margin-top:-85px;
+  margin-bottom:70.55000000000001px;
+  min-height:14.45px;
+  content:url(assets/images/Ellipse_335.png);
+}
+.Ellipse-335-outer{
+  pointer-events:none;
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.Intersect{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:9px;
+  width:159.96px;
+  min-width:159.96px;
+  height:81.89px;
+  margin-top:-85px;
+  margin-bottom:3.1100000000000136px;
+  min-height:81.89px;
+  content:url(assets/images/Intersect.png);
+}
+.Intersect-outer{
+  pointer-events:none;
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.Ellipse-333{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:76px;
+  width:25.4px;
+  min-width:25.4px;
+  height:22.08px;
+  margin-top:-80px;
+  margin-bottom:57.920000000000016px;
+  min-height:22.08px;
+  content:url(assets/images/Ellipse_333.png);
+}
+.Ellipse-333-outer{
+  pointer-events:none;
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.Vector-256{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:83px;
+  width:12px;
+  min-width:12px;
+  height:26.05px;
+  margin-top:-69px;
+  margin-bottom:42.94999999999999px;
+  min-height:26.05px;
+  content:url(assets/images/Vector_256.png);
+}
+.Vector-256-outer{
+  pointer-events:none;
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.Vector-255{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:59px;
+  width:58.87px;
+  min-width:58.87px;
+  height:18.42px;
+  margin-top:-57px;
+  margin-bottom:38.579999999999984px;
+  min-height:18.42px;
+  content:url(assets/images/Vector_255.png);
+}
+.Vector-255-outer{
+  pointer-events:none;
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:28px;
+  width:333px;
+  min-width:333px;
+  height:159px;
+  margin-top:-348px;
+  margin-bottom:189px;
+  min-height:159px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Ellipse-16-1{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:1508px;
+  width:-218px;
+  min-width:-218px;
+  height:-539px;
+  margin-top:539px;
+  margin-bottom:0px;
+  min-height:-539px;
+  content:url(assets/images/Ellipse_16_1.png);
+}
+.Ellipse-16-1-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.SUMMARY{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:73.56589147286822%;
+  width:22.635658914728683%;
+  height:5.142857142857143%;
+  margin-top:41.55038759689923%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(200, 83, 46, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:36px;
+  line-height:46px;
+}
+.SUMMARY-outer{
+  pointer-events:none;
+  z-index:25;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.XAMP{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:51.24031007751938%;
+  width:22.635658914728683%;
+  height:5.142857142857143%;
+  margin-top:41.55038759689923%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(244, 161, 32, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:36px;
+  line-height:46px;
+}
+.XAMP-outer{
+  pointer-events:none;
+  z-index:24;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.MAMP{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:27.51937984496124%;
+  width:22.635658914728683%;
+  height:5.142857142857143%;
+  margin-top:41.55038759689923%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(11, 108, 129, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:36px;
+  line-height:46px;
+}
+.MAMP-outer{
+  pointer-events:none;
+  z-index:23;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.MAC-OS{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:3.798449612403101%;
+  width:22.635658914728683%;
+  height:5.142857142857143%;
+  margin-top:41.55038759689923%;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(186, 200, 46, 1);
+  font-style:normal;
+  font-family:Lora;
+  font-weight:700;
+  font-size:36px;
+  line-height:46px;
+}
+.MAC-OS-outer{
+  pointer-events:none;
+  z-index:7;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+
+.wrap{
+  position: relative;
+}
+.na__link{
+  position: absolute;
+  margin-top: 365px;
+  text-decoration: none;
+  margin-left: 230px;
+  z-index: 5;
+}
+.quynh__link{
+  position: absolute;
+  margin-top: 365px;
+  text-decoration: none;
+  margin-left: 550px;
+  z-index: 5;
+}
+
+.link__circle{
+  border-radius: 50%;
+  border: 90px solid transparent ;
+}
+
+.phuoc__link{
+  position: absolute;
+  margin-top: 365px;
+  text-decoration: none;
+  margin-left: 865px;
+  z-index: 5;
+  
+}
+.summary__link{
+  position: absolute;
+  margin-top: 365px;
+  text-decoration: none;
+  margin-left: 1095px;
+  z-index: 5;
+}
